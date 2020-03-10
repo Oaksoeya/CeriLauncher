@@ -1,6 +1,6 @@
 import '../storage.dart' as storage;
 import 'german.dart' as german;
-import 'french.dart' as french;
+import 'Burmese.dart' as burmese;
 import 'hindi.dart' as hindi;
 import 'spanish.dart' as spanish;
 import 'italian.dart' as italian;
